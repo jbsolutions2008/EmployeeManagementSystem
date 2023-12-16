@@ -1,0 +1,85 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\JBS-\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\BLEmployeeManagementSystem\\BLEmployeeManagementSystem.csproj",
+      "projectName": "BLEmployeeManagementSystem",
+      "projectPath": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\BLEmployeeManagementSystem\\BLEmployeeManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\JBS-\\.nuget\\packages\\",
+      "outputPath": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\BLEmployeeManagementSystem\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\JBS-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj": {
+              "projectPath": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "0exfdGEIidm8UrbTO+oHU96FquE22iw6PGAaLINn0GW391lNUq3CPnTDQNa5Qph2q6ECii/ClnJJiIqjUauV6Q==",
+  "success": false,
+  "projectFilePath": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\BLEmployeeManagementSystem\\BLEmployeeManagementSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Atit Sheth\\EmployeeManagementSystem\\EmployeeManagementSystem\\DLEmployee\\DLEmployeeManagementSystem.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
